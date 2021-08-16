@@ -40,3 +40,10 @@ Param = Param - lr * dLoss/dParam.
  
  ## Performance Display:
  `Total execution time: 3782.25273723173909 minutes`
+
+## Instructions on running the code:
+
+1. Go to Google Colaboratory: https://colab.research.google.com/notebooks/welcome.ipynb
+2. File - New Python 3 notebook
+3. Cut and paste this file into the cell (feel free to divide into multiple cells)
+4. Runtime - Run all
